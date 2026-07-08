@@ -29,4 +29,4 @@ O objetivo é ensinar conceitos de Arquitetura de Computadores de forma divertid
 Criar um jogo educativo de código aberto que possa evoluir ao longo da faculdade.
 
 ---
-Desenvolvido por Carolina Claro ❤️
+Desenvolvido por Carolina F. Claro Oliveira
